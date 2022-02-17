@@ -1,0 +1,24 @@
+html,
+body {
+  height: 100%;
+  margin: 0;
+  background-color: darkcyan;
+}
+
+.main-container {
+  height: 100%;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: darkcyan;
+}
+
+.title {
+  color: white;
+}
+
+.buttons-container {
+  display: flex;
+}
